@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ChainOfResponsibility/ChainOfResponsibility.csproj" />
+  <Project Path="Command/Command.csproj" />
+  <Project Path="Observer/Observer.csproj" />
+  <Project Path="Strategy/Strategy.csproj" />
+  <Project Path="Visitor/Visitor.csproj" />
+</Solution>
